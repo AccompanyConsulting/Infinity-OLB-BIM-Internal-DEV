@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_cdecf06624724bed94174ad5360102e5": {
+        "id": "AS_AppEvents_cdecf06624724bed94174ad5360102e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ce549d20f8e649cdb266959b91e4f99d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "let params = eventobject;\r\nvar ApplicationManager = require('ApplicationManager');\r\napplicationManager = ApplicationManager.getApplicationManager();\r\nif (params.launchparams != null) {\r\n    if (params.launchmode == 1) {\r\n        kony.print(\"--------> This is inside the same app !!!\");\r\n    } else if (params.launchmode == 3) {\r\n        kony.print(\"---------> This is calling other app !!!\")\r\n        if (params.launchparams.authToken) {\r\n            applicationManager.handleAppService(params);\r\n        }\r\n    }\r\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

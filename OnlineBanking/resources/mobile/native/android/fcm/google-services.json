@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428916031080",
+    "project_id": "onlinebanking-ad5df",
+    "storage_bucket": "onlinebanking-ad5df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428916031080:android:55ccba9dce86d67d30c5dd",
+        "android_client_info": {
+          "package_name": "com.temenos.OnlineBanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428916031080-se23skpbk5f4qqtbdhv52lolj3r6semv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5IYjqQLlyWvsxsc3DIjwiUniwkswHaGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428916031080-se23skpbk5f4qqtbdhv52lolj3r6semv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
