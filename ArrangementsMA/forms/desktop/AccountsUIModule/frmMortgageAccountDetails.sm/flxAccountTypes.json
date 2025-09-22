@@ -1,0 +1,121 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": ""
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_skin_": "s41f3691141541e48b470900835c8f6e",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "accessibilityconfig": {
+        "a11yARIA": {}
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "flxGroup",
+        "accountTypes"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s680c9bafb594fe4bfa388d84acc43b2"
+        }
+    },
+    "disabledSkins": {},
+    "enablescrolling": true,
+    "focusskin": "s680c9bafb594fe4bfa388d84acc43b2",
+    "id": "flxAccountTypes",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c12408648e6b4166a7ef214d1396184b",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxAccountTypesAndInfo",
+    "pf": "frmMortgageAccountDetails",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "11%"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "8%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s90a3d6a0e234d9685e7d1b8013ed1e1",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "right": {
+                "type": "string",
+                "value": "30px"
+            }
+        }
+    },
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 250
+}

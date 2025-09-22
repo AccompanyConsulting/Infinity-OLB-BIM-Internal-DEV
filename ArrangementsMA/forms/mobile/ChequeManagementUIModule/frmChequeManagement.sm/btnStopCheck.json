@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdbac34aaa0043e2ac4c9ff031574baa",
+    "_text_": "E-Statements",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scfb7ae549fe4bb69cf789ea76c84c1f",
+    "id": "btnStopCheck",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ef13a8b61a474adcb9794b7886ff5845",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxTabsWrapper",
+    "pf": "frmChequeManagement",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.CM.stopCheques",
+    "wType": "Button",
+    "zindex": 1
+}
