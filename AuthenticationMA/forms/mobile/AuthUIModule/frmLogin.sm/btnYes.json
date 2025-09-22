@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s398d2e873e040b0b2052e5bc89cdc33",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "49.80%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "NEXT"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s398d2e873e040b0b2052e5bc89cdc33",
+    "id": "btnYes",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "jdd60f8104ac4dc185d78f1fb626297d",
+    "name": "kony.ui.Button",
+    "parent": "flxCancel",
+    "pf": "frmLogin",
+    "texti18n": "i18n.common.yes",
+    "wType": "Button",
+    "zindex": 1
+}

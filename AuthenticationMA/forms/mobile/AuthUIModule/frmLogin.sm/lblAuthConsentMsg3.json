@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbcbf828d7674e12bc63c38f07a7fdcb",
+    "_text_": "We need to confirm your identity. Your sign-in information will not be shared.",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {},
+    "android": {
+        "maxNumberOfLines": 1,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "textTruncatePosition": 3
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblAuthConsentMsg3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "maxNumberOfLines": 1,
+        "psp": {
+            "wrapping": 2
+        },
+        "textTruncatePosition": 3
+    },
+    "isvisible": false,
+    "kuid": "g34abfd44e6443188e9ee725ed644ec0",
+    "maxnumberoflines": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxAuthorise",
+    "pf": "frmLogin",
+    "texti18n": "i18n.login.authoriseConsentMsg2",
+    "textstyle": {},
+    "texttruncateposition": 3,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 5
+}
