@@ -1,0 +1,22 @@
+{
+    "AS_Form_e49eef90e86b4764bb3749d500678791": {
+        "id": "AS_Form_e49eef90e86b4764bb3749d500678791",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmLegalEntitySwitch",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c299b1c088c349738cc1af26810848ee"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_ddec06f26bf24e6f999aa6a4839b1290",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onpreShow();"
+        }]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "sfd374011f8943daa0815da0aecd0408",
+    "_title_": "Acknowledgment",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        },
+        "titleBar": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "flxSuccessTransaction",
+        "lblInfo",
+        "flxButtons"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "frmAuthConsentAcknowledgementController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone13",
+    "displayorientation": 1,
+    "enabledforidletimeout": true,
+    "id": "frmAuthConsentAcknowledgement",
+    "ide_init": "AS_Form_d0d52f8793594854804f3bb755470c37",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4
+        },
+        "titleBar": false
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 4,
+            "statusBarStyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+            "titleBarAttributes": {
+                "backBarButtonItem": {
+                    "enabled": true,
+                    "info": {
+                        "title": ""
+                    },
+                    "kuid": "f386adaf7a904893880f24c5c11fdb74",
+                    "style": 0,
+                    "tintColor": "ffffff00",
+                    "type": 1
+                },
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "f3408ae328cb40c79b98852153b03ed1",
+                "leftBarButtonItems": [],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [],
+                "tintColor": "ffffff00",
+                "translucent": false
+            }
+        },
+        "titleBar": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "f3397d29582946faaf42f87af2560cd2",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "android",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "texti18n": "kony.mb.MM.Acknowledgement",
+    "titleBarSkin": "scb8fcbdebb649d1b5900564018c8da5",
+    "titlebar": false,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    },
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

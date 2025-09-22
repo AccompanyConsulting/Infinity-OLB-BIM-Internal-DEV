@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbeee1fcbbd406e895e9215da082c5b",
+    "_text_": "Authorise <b>TeePee</b> to read your account information",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxAuthInformation",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "faebc494d25348b4bdf87e0e9d732855",
+    "linkskin": "s2d1942325eb441d9a811a69e8263465",
+    "name": "kony.ui.RichText",
+    "parent": "flxAuthInfo",
+    "pf": "frmAuthoriseGlobalConsent",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sc61e719c72447bf9f14db24bea23eb3",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "43%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "SEARCH"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sc61e719c72447bf9f14db24bea23eb3",
+    "id": "btnApprove",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e16f9131f5c0406bbbdafa2428846ea7",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmAuthoriseGlobalConsent",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.konybb.common.Approve",
+    "wType": "Button",
+    "zindex": 1
+}

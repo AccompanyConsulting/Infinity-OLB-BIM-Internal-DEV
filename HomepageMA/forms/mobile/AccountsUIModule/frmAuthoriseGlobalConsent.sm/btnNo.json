@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s398d2e873e040b0b2052e5bc89cdc33",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "49.80%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "SEARCH"
+    },
+    "android": {},
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s398d2e873e040b0b2052e5bc89cdc33",
+    "id": "btnNo",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i5d75e9ca17b420f810860a60043ac8d",
+    "name": "kony.ui.Button",
+    "parent": "flxRejButtons",
+    "pf": "frmAuthoriseGlobalConsent",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.common.no",
+    "wType": "Button",
+    "zindex": 1
+}
