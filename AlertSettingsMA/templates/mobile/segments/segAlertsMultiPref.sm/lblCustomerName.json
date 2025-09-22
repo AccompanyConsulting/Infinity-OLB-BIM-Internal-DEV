@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s41d06c736c84b6595f23a7437081016",
+    "_text_": "Savings Acc...",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {
+        "a11yLabel": "randomValue"
+    },
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblCustomerName",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e57d85d195ae49839b07b2b49b8c1e68",
+    "maxnumberoflines": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxCustomerName",
+    "pf": "segAlertsMultiPref",
+    "textstyle": {},
+    "texttruncateposition": 3,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}
