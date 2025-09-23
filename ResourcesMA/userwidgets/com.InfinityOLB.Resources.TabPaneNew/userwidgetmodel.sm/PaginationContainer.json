@@ -1,0 +1,207 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "380dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "64%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "PaginationContainer": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "edfe6156f0b84602bb4f46af14fa0161",
+                "srcKUID": "ice8cbbb6daf446fb8ce127859bcf017",
+                "wType": "FlexContainer"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "380dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "64%"
+                }
+            },
+            "zIndex": {
+                "Default": 1
+            }
+        },
+        "flxPagination": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j34c8a91533e40a4bdb91de047814bb6",
+                "srcKUID": "b07209b6523d429d91d1f86e5c576379",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPaginationFirst": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f9c96778ddfd4a619753078994aa0cd3",
+                "srcKUID": "b894aefa9441464fa97610c0d1065bcd",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPaginationLast": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cab5ec5bd4634584800970f6dbbe73a9",
+                "srcKUID": "c4e3ef5e5b504e94a96e3cd3996c5ccf",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPaginationNext": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ed21d3474a8547319ebaee60b11afa16",
+                "srcKUID": "g693c7a404b247099a02efe337403a16",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPaginationPrevious": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bdae88ebcada44a2a7f207ef1ccc8cff",
+                "srcKUID": "j9aa598d741c4cb8aee25041b3b66849",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgPaginationFirst": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e29a0bbc6f5749079e6a2dd974cf2bf1",
+                "srcKUID": "eb7f93aaba36463ead0a0dac05b8cfef",
+                "wType": "Image"
+            }
+        },
+        "imgPaginationLast": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hdacaa2b44bb4b9d946dd0837a8e22c0",
+                "srcKUID": "h70aa197b6834f5da2fda3b16e358fbd",
+                "wType": "Image"
+            }
+        },
+        "imgPaginationNext": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i994210217bd4a0c895656c56d624273",
+                "srcKUID": "i3a20e1ceab540d490ad32ca87e5a1e0",
+                "wType": "Image"
+            },
+            "src": "pagination_next_active.png"
+        },
+        "imgPaginationPrevious": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c71e5f9e02334a029683f5e41aad82db",
+                "srcKUID": "fe5b71b39044460da9d255810c5de280",
+                "wType": "Image"
+            },
+            "src": "pagination_back_inactive.png"
+        },
+        "lblPagination": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i7592736bb8a4da3abb967c5dabdf6f2",
+                "srcKUID": "id8aa659677f4ae9a11944383081582a",
+                "wType": "Label"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "3%"
+                }
+            },
+            "text": "1-10 ACH Transactions",
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "40%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "PaginationContainer",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "edfe6156f0b84602bb4f46af14fa0161",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContentContainer",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ice8cbbb6daf446fb8ce127859bcf017",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_h18ee80c291d4a44807435b9efcc6552": {
+        "id": "AS_FlexContainer_h18ee80c291d4a44807435b9efcc6552",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u0c254ff60fd4759bdc3555b1eaef73d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__b9f0a7a0e02c4ca38b3323b22149ddae",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "fixContextualMenu",
+            "display": "fixContextualMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

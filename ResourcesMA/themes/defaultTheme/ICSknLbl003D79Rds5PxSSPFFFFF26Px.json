@@ -1,0 +1,105 @@
+{
+  "android": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "androidwearos": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true
+  },
+  "background_color": "293276ff",
+  "bg_type": "one",
+  "border_color": "000d19ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "bottom_left_border_color": "000d19ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "0",
+    "bottom_right_border_color": "000d19ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "0",
+    "font_color": "ffffffff",
+    "font_name": "SourceSansPro-Regular",
+    "font_size": 234,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    },
+    "top_left_border_color": "000d19ff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "0",
+    "top_right_border_color": "000d19ff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "0"
+  },
+  "fontSizeInPx": false,
+  "font_color": "6e7081ff",
+  "font_name": "SourceSansPro-Regular",
+  "font_size": 200,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "iphone": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "isDefaultSkin": false,
+  "kuid": "s1d82e42c45347759eae2f1a2bd23876",
+  "tabrcandroid": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_color": "ffffffff",
+    "font_size": 234,
+    "isForked": true
+  }
+}
