@@ -1,0 +1,59 @@
+{
+    "HEAD": "w7a084e673614b3285f3224932d0ddd6",
+    "w00d9bf195ee40fa884bc9b678e03b74": {
+        "extension": "html",
+        "kuid": "w00d9bf195ee40fa884bc9b678e03b74",
+        "name": "setQRCodeProperties.html",
+        "parent": "w4039847eca449ea9c7b89100b086653",
+        "type": "F"
+    },
+    "w2da7eaf06d14d5b98d7f9bcca6a2415": {
+        "extension": "html",
+        "kuid": "w2da7eaf06d14d5b98d7f9bcca6a2415",
+        "name": "index.html",
+        "parent": "w4039847eca449ea9c7b89100b086653",
+        "type": "F"
+    },
+    "w4039847eca449ea9c7b89100b086653": {
+        "children": [
+            "w2da7eaf06d14d5b98d7f9bcca6a2415",
+            "w618866123f948268972a0fa10f9cd2b",
+            "w49c55c74e5848afb5b3cf60f4d93b1b",
+            "w00d9bf195ee40fa884bc9b678e03b74"
+        ],
+        "kuid": "w4039847eca449ea9c7b89100b086653",
+        "name": "QRCodeGenerator",
+        "parent": "w7a084e673614b3285f3224932d0ddd6",
+        "type": "D"
+    },
+    "w49c55c74e5848afb5b3cf60f4d93b1b": {
+        "extension": "js",
+        "kuid": "w49c55c74e5848afb5b3cf60f4d93b1b",
+        "name": "qrcode.js",
+        "parent": "w4039847eca449ea9c7b89100b086653",
+        "type": "F"
+    },
+    "w618866123f948268972a0fa10f9cd2b": {
+        "extension": "js",
+        "kuid": "w618866123f948268972a0fa10f9cd2b",
+        "name": "jquery.min.js",
+        "parent": "w4039847eca449ea9c7b89100b086653",
+        "type": "F"
+    },
+    "w73239fc9f814cd0949559283c7c7ab4": {
+        "extension": "html",
+        "kuid": "w73239fc9f814cd0949559283c7c7ab4",
+        "name": "richtextViewer.html",
+        "parent": "w7a084e673614b3285f3224932d0ddd6",
+        "type": "F"
+    },
+    "w7a084e673614b3285f3224932d0ddd6": {
+        "children": [
+            "w4039847eca449ea9c7b89100b086653",
+            "w73239fc9f814cd0949559283c7c7ab4"
+        ],
+        "kuid": "w7a084e673614b3285f3224932d0ddd6",
+        "name": "localfiles",
+        "type": "L"
+    }
+}
